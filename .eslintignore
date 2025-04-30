@@ -1,0 +1,11 @@
+# Archivos de construcción
+dist/
+build/
+
+# Dependencias
+node_modules/
+
+# Archivos de configuración específicos si es necesario
+# vite.config.js
+# tailwind.config.js
+# postcss.config.js
