@@ -31,7 +31,3 @@ jobs:
       
     - name: Build
       run: npm run build
-      
-    # Aquí puedes añadir pasos para tests cuando los implementes
-    # - name: Test
-    #   run: npm test
