@@ -13,7 +13,7 @@ export default {
         'sena-blue-light': '#0055B3', // Azul claro para variaciones
         'sena-blue-dark': '#002438', // Azul oscuro para fondos
         'sena-blue-hover': '#003E60', // Azul hover para botones
-        
+
         // Grises para la interfaz
         'sena-gray-50': '#F9FAFB', // Gris muy claro para fondos
         'sena-gray-100': '#F3F4F6', // Gris claro para fondos alternos
